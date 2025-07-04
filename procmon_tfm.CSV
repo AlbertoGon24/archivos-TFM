@@ -1,0 +1,994 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"8:45:09.3587383 AM","icacls.exe","6956","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios"" /deny Alberto:F, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:09.3587425 AM","icacls.exe","6956","Thread Create","","SUCCESS","Thread ID: 7388"
+"8:45:09.6626794 AM","icacls.exe","6956","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:09.6629532 AM","icacls.exe","6956","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:09.6630436 AM","icacls.exe","6956","CreateFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"8:45:09.6631218 AM","icacls.exe","6956","QueryEAFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:09.6635594 AM","icacls.exe","6956","QueryStandardInformationFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","AllocationSize: 4,096, EndOfFile: 2,123, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"8:45:09.6635844 AM","icacls.exe","6956","ReadFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Offset: 0, Length: 2,123, Priority: Normal"
+"8:45:09.6636172 AM","icacls.exe","6956","ReadFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Offset: 0, Length: 2,123, I/O Flags: Non-cached, Paging I/O, Priority: Normal"
+"8:45:09.6666738 AM","icacls.exe","6956","CloseFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:09.8976537 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:09.8976705 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:09.8976834 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:09.8976963 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:09.8977042 AM","icacls.exe","6956","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:09.8977104 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:09.8977440 AM","icacls.exe","6956","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:09.8977492 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:09.8977543 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:09.8977599 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:09.9005682 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:09.9013659 AM","icacls.exe","6956","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:09.9029265 AM","icacls.exe","6956","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:10.0906372 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:10.0906524 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:10.0906652 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:10.0906701 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.0906782 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:10.0906929 AM","icacls.exe","6956","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:10.0907026 AM","icacls.exe","6956","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:10.0907110 AM","icacls.exe","6956","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:10.0907352 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:10.0907410 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:10.0907472 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:10.0907536 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:10.0922546 AM","icacls.exe","6956","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:10.0923633 AM","icacls.exe","6956","Thread Create","","SUCCESS","Thread ID: 4504"
+"8:45:10.0927389 AM","icacls.exe","6956","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:10.0933047 AM","icacls.exe","6956","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:10.0936974 AM","icacls.exe","6956","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:10.0941371 AM","icacls.exe","6956","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.0941615 AM","icacls.exe","6956","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:07 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:10.0941692 AM","icacls.exe","6956","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:10.0942211 AM","icacls.exe","6956","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.0942460 AM","icacls.exe","6956","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:10.0942607 AM","icacls.exe","6956","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:10.0953042 AM","icacls.exe","6956","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:10.0956874 AM","icacls.exe","6956","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:10.0957421 AM","icacls.exe","6956","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:10.0960482 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:10.0960598 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:10.0960720 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:10.0960798 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:10.0961127 AM","icacls.exe","6956","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.0961187 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.0961257 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:10.0961348 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:10.0962567 AM","icacls.exe","6956","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.0962629 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.0962686 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:10.0962746 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:10.0973268 AM","icacls.exe","6956","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:10.2225021 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2245026 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245182 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2245278 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245437 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2245528 AM","icacls.exe","6956","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245623 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245687 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2245756 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245824 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2245900 AM","icacls.exe","6956","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2245957 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:10.2246024 AM","icacls.exe","6956","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:10.2246115 AM","icacls.exe","6956","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:10.2246159 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2246207 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2246270 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2246332 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:10.2246429 AM","icacls.exe","6956","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:10.2246482 AM","icacls.exe","6956","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:10.2246561 AM","icacls.exe","6956","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:10.2246605 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2246662 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2246724 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2246782 AM","icacls.exe","6956","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2246839 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:10.2246888 AM","icacls.exe","6956","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:10.2246949 AM","icacls.exe","6956","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:10.2246989 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2247038 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2247100 AM","icacls.exe","6956","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:10.2247156 AM","icacls.exe","6956","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2247207 AM","icacls.exe","6956","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2247257 AM","icacls.exe","6956","RegCloseKey","HKCU","SUCCESS",""
+"8:45:10.2248210 AM","icacls.exe","6956","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:10.2248298 AM","icacls.exe","6956","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:10.2248356 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:10.2248495 AM","icacls.exe","6956","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:10.2248583 AM","icacls.exe","6956","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:10.2248861 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:10.2248950 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2249041 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:10.2249095 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2249160 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:10.2249233 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:10.2249342 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:10.2249410 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:10.2249475 AM","icacls.exe","6956","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:10.2249540 AM","icacls.exe","6956","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:10.2249606 AM","icacls.exe","6956","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:10.2249659 AM","icacls.exe","6956","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:10.2249713 AM","icacls.exe","6956","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:10.2249772 AM","icacls.exe","6956","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:10.2249843 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.2249956 AM","icacls.exe","6956","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:10.2250438 AM","icacls.exe","6956","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:10.2250491 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2250609 AM","icacls.exe","6956","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2250983 AM","icacls.exe","6956","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:10.2251032 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:10.2251093 AM","icacls.exe","6956","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:10.2251152 AM","icacls.exe","6956","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:10.2315147 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2315315 AM","icacls.exe","6956","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","CreationTime: 7/2/2025 7:55:24 AM, LastAccessTime: 7/3/2025 8:43:50 AM, LastWriteTime: 7/2/2025 7:55:24 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:10.2315423 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:10.2315885 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2315984 AM","icacls.exe","6956","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:10.2316245 AM","icacls.exe","6956","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","INVALID PARAMETER",""
+"8:45:10.2316385 AM","icacls.exe","6956","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:10.2316475 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:10.2317425 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2317738 AM","icacls.exe","6956","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:10.2317862 AM","icacls.exe","6956","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","CreationTime: 7/2/2025 7:55:24 AM, LastAccessTime: 7/3/2025 8:43:50 AM, LastWriteTime: 7/2/2025 7:55:24 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:10.2317984 AM","icacls.exe","6956","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios"
+"8:45:10.2318678 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2318780 AM","icacls.exe","6956","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:10.2318866 AM","icacls.exe","6956","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:10.2318931 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:10.2319055 AM","icacls.exe","6956","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","INVALID PARAMETER",""
+"8:45:10.2319122 AM","icacls.exe","6956","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: Owner, Group, DACL"
+"8:45:10.2319756 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2319954 AM","icacls.exe","6956","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:10.2320301 AM","icacls.exe","6956","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:10.2320369 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:10.2320566 AM","icacls.exe","6956","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: DACL"
+"8:45:10.2321522 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:10.2322132 AM","icacls.exe","6956","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:10.2322336 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:10.2323092 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:10.2323197 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2323292 AM","icacls.exe","6956","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:10.2323883 AM","icacls.exe","6956","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:10.2324142 AM","icacls.exe","6956","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:10.2324220 AM","icacls.exe","6956","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:10.2324335 AM","icacls.exe","6956","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:10.9741402 AM","icacls.exe","6956","Thread Exit","","SUCCESS","Thread ID: 7388, User Time: 0.0000000, Kernel Time: 0.0312500"
+"8:45:11.0168536 AM","icacls.exe","6956","Thread Exit","","SUCCESS","Thread ID: 4504, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:11.0171251 AM","icacls.exe","6956","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0312500 seconds, Private Bytes: 851,968, Peak Private Bytes: 851,968, Working Set: 4,374,528, Peak Working Set: 4,378,624"
+"8:45:11.0323747 AM","icacls.exe","6956","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:11.0323846 AM","icacls.exe","6956","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:11.0324007 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:11.0347928 AM","icacls.exe","6956","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:11.0367472 AM","icacls.exe","6956","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:11.0367599 AM","icacls.exe","6956","RegCloseKey","HKLM","SUCCESS",""
+"8:45:11.0367649 AM","icacls.exe","6956","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:11.0368124 AM","icacls.exe","6956","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
+"8:45:11.0471956 AM","icacls.exe","7384","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales"" /deny Alberto:F, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:11.0471988 AM","icacls.exe","7384","Thread Create","","SUCCESS","Thread ID: 3996"
+"8:45:11.0695328 AM","icacls.exe","7384","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:11.0700850 AM","icacls.exe","7384","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:11.0701985 AM","icacls.exe","7384","CreateFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.0702572 AM","icacls.exe","7384","QueryEAFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:11.0710761 AM","icacls.exe","7384","QueryStandardInformationFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","AllocationSize: 4,096, EndOfFile: 2,123, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"8:45:11.0711032 AM","icacls.exe","7384","ReadFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Offset: 0, Length: 2,123, Priority: Normal"
+"8:45:11.0711838 AM","icacls.exe","7384","CloseFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:11.0984416 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:11.0984580 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:11.0984699 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:11.0984815 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.0984893 AM","icacls.exe","7384","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:11.0984953 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:11.0985221 AM","icacls.exe","7384","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.0985268 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.0985315 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.0985368 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.0988257 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1032744 AM","icacls.exe","7384","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:11.1039264 AM","icacls.exe","7384","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:11.1072370 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:11.1072522 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:11.1072622 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:11.1072676 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1072760 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:11.1072916 AM","icacls.exe","7384","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:11.1073024 AM","icacls.exe","7384","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:11.1073145 AM","icacls.exe","7384","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:11.1073416 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:11.1073465 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:11.1073531 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.1073595 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:11.1080471 AM","icacls.exe","7384","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:11.1081481 AM","icacls.exe","7384","Thread Create","","SUCCESS","Thread ID: 5720"
+"8:45:11.1083437 AM","icacls.exe","7384","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:11.1089284 AM","icacls.exe","7384","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:11.1097341 AM","icacls.exe","7384","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:11.1101768 AM","icacls.exe","7384","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1102014 AM","icacls.exe","7384","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:10 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:11.1102089 AM","icacls.exe","7384","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:11.1102581 AM","icacls.exe","7384","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1102849 AM","icacls.exe","7384","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:11.1103007 AM","icacls.exe","7384","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:11.1108481 AM","icacls.exe","7384","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:11.1110629 AM","icacls.exe","7384","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:11.1111187 AM","icacls.exe","7384","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:11.1113799 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:11.1113940 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:11.1114070 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:11.1114152 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:11.1114483 AM","icacls.exe","7384","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1114550 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1114623 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.1114715 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.1115957 AM","icacls.exe","7384","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1116020 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1116077 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.1116136 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.1128540 AM","icacls.exe","7384","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:11.1129467 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1129596 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1129718 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1129773 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1129932 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1129993 AM","icacls.exe","7384","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1130082 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1130141 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1130222 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1130303 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1130362 AM","icacls.exe","7384","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1130418 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:11.1130498 AM","icacls.exe","7384","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:11.1130585 AM","icacls.exe","7384","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:11.1130628 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1130680 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1130742 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1130810 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:11.1130892 AM","icacls.exe","7384","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:11.1130944 AM","icacls.exe","7384","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:11.1131010 AM","icacls.exe","7384","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:11.1131051 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1131104 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1131163 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1131217 AM","icacls.exe","7384","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1131286 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:11.1131334 AM","icacls.exe","7384","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:11.1131391 AM","icacls.exe","7384","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:11.1131431 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1131474 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1131533 AM","icacls.exe","7384","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.1131587 AM","icacls.exe","7384","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1131637 AM","icacls.exe","7384","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1131685 AM","icacls.exe","7384","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.1132396 AM","icacls.exe","7384","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:11.1132483 AM","icacls.exe","7384","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.1132545 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:11.1132686 AM","icacls.exe","7384","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:11.1132773 AM","icacls.exe","7384","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:11.1133019 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:11.1133097 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1133186 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:11.1133238 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1133301 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:11.1133361 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:11.1133441 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:11.1133506 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:11.1133563 AM","icacls.exe","7384","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:11.1133627 AM","icacls.exe","7384","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.1133692 AM","icacls.exe","7384","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:11.1133742 AM","icacls.exe","7384","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:11.1133793 AM","icacls.exe","7384","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.1133849 AM","icacls.exe","7384","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:11.1133914 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1134031 AM","icacls.exe","7384","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.1134384 AM","icacls.exe","7384","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.1134456 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1134558 AM","icacls.exe","7384","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1134937 AM","icacls.exe","7384","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.1134986 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:11.1135046 AM","icacls.exe","7384","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:11.1135102 AM","icacls.exe","7384","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:11.1141604 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1141751 AM","icacls.exe","7384","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","CreationTime: 7/2/2025 7:55:22 AM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 7/2/2025 7:55:22 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:11.1141810 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:11.1142234 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1142325 AM","icacls.exe","7384","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:11.1142559 AM","icacls.exe","7384","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","INVALID PARAMETER",""
+"8:45:11.1142689 AM","icacls.exe","7384","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:11.1142761 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:11.1143166 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1143372 AM","icacls.exe","7384","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:11.1143460 AM","icacls.exe","7384","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","CreationTime: 7/2/2025 7:55:22 AM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 7/2/2025 7:55:22 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:11.1143552 AM","icacls.exe","7384","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales"
+"8:45:11.1143999 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1144096 AM","icacls.exe","7384","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:11.1144166 AM","icacls.exe","7384","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:11.1144219 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:11.1144333 AM","icacls.exe","7384","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","INVALID PARAMETER",""
+"8:45:11.1144395 AM","icacls.exe","7384","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: Owner, Group, DACL"
+"8:45:11.1144944 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1145126 AM","icacls.exe","7384","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:11.1145359 AM","icacls.exe","7384","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:11.1145419 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:11.1145589 AM","icacls.exe","7384","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: DACL"
+"8:45:11.1146524 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:11.1147063 AM","icacls.exe","7384","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:11.1147249 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:11.1147851 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:11.1147950 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1148038 AM","icacls.exe","7384","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.1148723 AM","icacls.exe","7384","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1148968 AM","icacls.exe","7384","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:11.1149047 AM","icacls.exe","7384","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:11.1149152 AM","icacls.exe","7384","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:11.1151989 AM","icacls.exe","7384","Thread Exit","","SUCCESS","Thread ID: 3996, User Time: 0.0000000, Kernel Time: 0.0312500"
+"8:45:11.1215271 AM","icacls.exe","7384","Thread Exit","","SUCCESS","Thread ID: 5720, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:11.1304285 AM","icacls.exe","7384","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0312500 seconds, Private Bytes: 843,776, Peak Private Bytes: 843,776, Working Set: 4,374,528, Peak Working Set: 4,378,624"
+"8:45:11.1331774 AM","icacls.exe","7384","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:11.1331923 AM","icacls.exe","7384","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:11.1332080 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:11.1335646 AM","icacls.exe","7384","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:11.1372937 AM","icacls.exe","7384","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:11.1373048 AM","icacls.exe","7384","RegCloseKey","HKLM","SUCCESS",""
+"8:45:11.1373101 AM","icacls.exe","7384","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:11.1373578 AM","icacls.exe","7384","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
+"8:45:11.1539729 AM","icacls.exe","8212","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo"" /deny Alberto:F, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:11.1539836 AM","icacls.exe","8212","Thread Create","","SUCCESS","Thread ID: 8232"
+"8:45:11.1835866 AM","icacls.exe","8212","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:11.1845100 AM","icacls.exe","8212","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:11.1846106 AM","icacls.exe","8212","CreateFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.1846620 AM","icacls.exe","8212","QueryEAFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:11.1850892 AM","icacls.exe","8212","QueryStandardInformationFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","AllocationSize: 4,096, EndOfFile: 2,123, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"8:45:11.1851139 AM","icacls.exe","8212","ReadFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Offset: 0, Length: 2,123, Priority: Normal"
+"8:45:11.1895871 AM","icacls.exe","8212","CloseFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:11.2357936 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:11.2358079 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:11.2358184 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:11.2358297 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.2358425 AM","icacls.exe","8212","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:11.2358477 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:11.2358718 AM","icacls.exe","8212","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2358765 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2358810 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.2358860 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.2368248 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2370994 AM","icacls.exe","8212","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:11.2377074 AM","icacls.exe","8212","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:11.2423917 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:11.2424051 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:11.2424151 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:11.2424211 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2424286 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:11.2424439 AM","icacls.exe","8212","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:11.2424562 AM","icacls.exe","8212","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:11.2424644 AM","icacls.exe","8212","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:11.2424874 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:11.2424938 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:11.2425004 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.2425065 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:11.2436176 AM","icacls.exe","8212","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:11.2437082 AM","icacls.exe","8212","Thread Create","","SUCCESS","Thread ID: 8268"
+"8:45:11.2444627 AM","icacls.exe","8212","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:11.2446824 AM","icacls.exe","8212","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:11.2469562 AM","icacls.exe","8212","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:11.2473977 AM","icacls.exe","8212","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2474424 AM","icacls.exe","8212","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:11.2474513 AM","icacls.exe","8212","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:11.2475185 AM","icacls.exe","8212","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2475479 AM","icacls.exe","8212","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:11.2475629 AM","icacls.exe","8212","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:11.2486902 AM","icacls.exe","8212","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:11.2491774 AM","icacls.exe","8212","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:11.2492320 AM","icacls.exe","8212","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:11.2495132 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:11.2495275 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:11.2495400 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:11.2495483 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:11.2495814 AM","icacls.exe","8212","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2495872 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2495941 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.2496042 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.2497268 AM","icacls.exe","8212","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2497330 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2497390 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:11.2497450 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:11.2506570 AM","icacls.exe","8212","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:11.2508473 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2508596 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2508717 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2508772 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2508917 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2508979 AM","icacls.exe","8212","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2509118 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2509181 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2509236 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2509300 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2509360 AM","icacls.exe","8212","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2509413 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:11.2509474 AM","icacls.exe","8212","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:11.2509562 AM","icacls.exe","8212","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:11.2509611 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2509657 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2509717 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2509778 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:11.2509864 AM","icacls.exe","8212","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:11.2509919 AM","icacls.exe","8212","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:11.2509983 AM","icacls.exe","8212","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:11.2510043 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2510096 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2510156 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2510220 AM","icacls.exe","8212","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2510270 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:11.2510317 AM","icacls.exe","8212","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:11.2510375 AM","icacls.exe","8212","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:11.2510415 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2510458 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2510521 AM","icacls.exe","8212","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:11.2510575 AM","icacls.exe","8212","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2510624 AM","icacls.exe","8212","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2510674 AM","icacls.exe","8212","RegCloseKey","HKCU","SUCCESS",""
+"8:45:11.2511421 AM","icacls.exe","8212","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:11.2511515 AM","icacls.exe","8212","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.2511574 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:11.2511720 AM","icacls.exe","8212","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:11.2511808 AM","icacls.exe","8212","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:11.2512050 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:11.2512124 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2512214 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:11.2512264 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2512328 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:11.2512393 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:11.2512469 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:11.2512535 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:11.2512590 AM","icacls.exe","8212","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:11.2512653 AM","icacls.exe","8212","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.2512716 AM","icacls.exe","8212","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:11.2512765 AM","icacls.exe","8212","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:11.2512815 AM","icacls.exe","8212","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:11.2512873 AM","icacls.exe","8212","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:11.2512940 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2513059 AM","icacls.exe","8212","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:11.2513547 AM","icacls.exe","8212","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.2513608 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2513733 AM","icacls.exe","8212","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2514120 AM","icacls.exe","8212","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:11.2514171 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:11.2514235 AM","icacls.exe","8212","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:11.2514299 AM","icacls.exe","8212","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:11.2520352 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2520496 AM","icacls.exe","8212","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","CreationTime: 7/2/2025 7:55:25 AM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 7/2/2025 7:55:25 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:11.2520559 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:11.2520983 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2521106 AM","icacls.exe","8212","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:11.2521310 AM","icacls.exe","8212","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","INVALID PARAMETER",""
+"8:45:11.2521441 AM","icacls.exe","8212","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:11.2521513 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:11.2521919 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2522132 AM","icacls.exe","8212","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:11.2522221 AM","icacls.exe","8212","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","CreationTime: 7/2/2025 7:55:25 AM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 7/2/2025 7:55:25 AM, ChangeTime: 7/3/2025 8:45:09 AM, FileAttributes: D"
+"8:45:11.2522312 AM","icacls.exe","8212","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo"
+"8:45:11.2522733 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2522828 AM","icacls.exe","8212","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:11.2522900 AM","icacls.exe","8212","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:11.2522957 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:11.2523065 AM","icacls.exe","8212","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","INVALID PARAMETER",""
+"8:45:11.2523127 AM","icacls.exe","8212","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: Owner, Group, DACL"
+"8:45:11.2523974 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2524162 AM","icacls.exe","8212","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:11.2524414 AM","icacls.exe","8212","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:11.2524479 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:11.2524652 AM","icacls.exe","8212","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: DACL"
+"8:45:11.2525381 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:11.2525924 AM","icacls.exe","8212","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:11.2526112 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:11.2526746 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:11.2526845 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2526950 AM","icacls.exe","8212","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:11.2527474 AM","icacls.exe","8212","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:11.2527699 AM","icacls.exe","8212","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:11.2527774 AM","icacls.exe","8212","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:11.2527884 AM","icacls.exe","8212","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:11.2530043 AM","icacls.exe","8212","Thread Exit","","SUCCESS","Thread ID: 8232, User Time: 0.0000000, Kernel Time: 0.0156250"
+"8:45:11.2537806 AM","icacls.exe","8212","Thread Exit","","SUCCESS","Thread ID: 8268, User Time: 0.0000000, Kernel Time: 0.0156250"
+"8:45:11.2593135 AM","icacls.exe","8212","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0312500 seconds, Private Bytes: 851,968, Peak Private Bytes: 851,968, Working Set: 4,374,528, Peak Working Set: 4,378,624"
+"8:45:11.2621269 AM","icacls.exe","8212","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:11.2621400 AM","icacls.exe","8212","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:11.2621574 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:11.2632836 AM","icacls.exe","8212","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:11.2660402 AM","icacls.exe","8212","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:11.2660506 AM","icacls.exe","8212","RegCloseKey","HKLM","SUCCESS",""
+"8:45:11.2660570 AM","icacls.exe","8212","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:11.2661222 AM","icacls.exe","8212","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
+"8:45:41.2764766 AM","icacls.exe","1528","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios"" /remove:d Alberto, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:41.2764807 AM","icacls.exe","1528","Thread Create","","SUCCESS","Thread ID: 8044"
+"8:45:41.2876340 AM","icacls.exe","1528","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:41.2881904 AM","icacls.exe","1528","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:41.2883556 AM","icacls.exe","1528","CreateFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.2884271 AM","icacls.exe","1528","QueryEAFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:41.2896928 AM","icacls.exe","1528","QueryStandardInformationFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","AllocationSize: 4,096, EndOfFile: 2,242, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"8:45:41.2897250 AM","icacls.exe","1528","ReadFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS","Offset: 0, Length: 2,242, Priority: Normal"
+"8:45:41.2898269 AM","icacls.exe","1528","CloseFile","C:\Windows\Prefetch\ICACLS.EXE-E79D2D93.pf","SUCCESS",""
+"8:45:41.3065654 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:41.3065808 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:41.3065931 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:41.3066053 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3066145 AM","icacls.exe","1528","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:41.3066248 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.3066528 AM","icacls.exe","1528","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3066579 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3066630 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3066685 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3069443 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3076706 AM","icacls.exe","1528","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:41.3086523 AM","icacls.exe","1528","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:41.3096428 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:41.3096834 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:41.3097091 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:41.3097151 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3097379 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:41.3097585 AM","icacls.exe","1528","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:41.3097718 AM","icacls.exe","1528","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:41.3097814 AM","icacls.exe","1528","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.3098120 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:41.3098177 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:41.3098251 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3098336 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:41.3108825 AM","icacls.exe","1528","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:41.3110539 AM","icacls.exe","1528","Thread Create","","SUCCESS","Thread ID: 8296"
+"8:45:41.3123806 AM","icacls.exe","1528","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:41.3131873 AM","icacls.exe","1528","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:41.3143491 AM","icacls.exe","1528","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:41.3151795 AM","icacls.exe","1528","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3152169 AM","icacls.exe","1528","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:11 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:41.3152269 AM","icacls.exe","1528","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.3152907 AM","icacls.exe","1528","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3153206 AM","icacls.exe","1528","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.3153382 AM","icacls.exe","1528","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.3165824 AM","icacls.exe","1528","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:41.3171344 AM","icacls.exe","1528","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:41.3172028 AM","icacls.exe","1528","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.3175984 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:41.3176172 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:41.3176326 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:41.3176510 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:41.3176912 AM","icacls.exe","1528","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3176987 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3177067 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3177173 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3178558 AM","icacls.exe","1528","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3178634 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3178696 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3178761 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3196917 AM","icacls.exe","1528","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:41.3199798 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3200005 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200156 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3200229 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200380 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3200453 AM","icacls.exe","1528","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200555 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200622 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3200685 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200780 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3200845 AM","icacls.exe","1528","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3200906 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.3200981 AM","icacls.exe","1528","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.3201084 AM","icacls.exe","1528","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.3201129 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3201180 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3201246 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3201311 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:41.3201404 AM","icacls.exe","1528","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:41.3201461 AM","icacls.exe","1528","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:41.3201535 AM","icacls.exe","1528","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:41.3201583 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3201643 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3201712 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3201792 AM","icacls.exe","1528","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3201848 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.3201899 AM","icacls.exe","1528","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.3201964 AM","icacls.exe","1528","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.3202008 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3202056 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3202121 AM","icacls.exe","1528","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3202180 AM","icacls.exe","1528","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3202233 AM","icacls.exe","1528","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3202287 AM","icacls.exe","1528","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3203222 AM","icacls.exe","1528","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:41.3203326 AM","icacls.exe","1528","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3203393 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:41.3203557 AM","icacls.exe","1528","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:41.3203664 AM","icacls.exe","1528","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.3203935 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.3204031 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3204139 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.3204197 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3204265 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:41.3204332 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:41.3204429 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:41.3204507 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:41.3204572 AM","icacls.exe","1528","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.3204644 AM","icacls.exe","1528","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3204724 AM","icacls.exe","1528","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.3204778 AM","icacls.exe","1528","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.3204835 AM","icacls.exe","1528","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3204898 AM","icacls.exe","1528","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.3204969 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3205087 AM","icacls.exe","1528","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3205511 AM","icacls.exe","1528","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3205568 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3205689 AM","icacls.exe","1528","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3206159 AM","icacls.exe","1528","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3206211 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:41.3206276 AM","icacls.exe","1528","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:41.3206338 AM","icacls.exe","1528","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.3214129 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3214376 AM","icacls.exe","1528","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","CreationTime: 7/2/2025 7:55:24 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:24 AM, ChangeTime: 7/3/2025 8:45:10 AM, FileAttributes: D"
+"8:45:41.3214449 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:41.3214972 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3215106 AM","icacls.exe","1528","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.3215337 AM","icacls.exe","1528","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","INVALID PARAMETER",""
+"8:45:41.3215460 AM","icacls.exe","1528","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:41.3215542 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:41.3216039 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3216336 AM","icacls.exe","1528","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.3216433 AM","icacls.exe","1528","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","CreationTime: 7/2/2025 7:55:24 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:24 AM, ChangeTime: 7/3/2025 8:45:10 AM, FileAttributes: D"
+"8:45:41.3216545 AM","icacls.exe","1528","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios"
+"8:45:41.3217038 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3217144 AM","icacls.exe","1528","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:41.3217224 AM","icacls.exe","1528","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:41.3217281 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:41.3217403 AM","icacls.exe","1528","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","INVALID PARAMETER",""
+"8:45:41.3217472 AM","icacls.exe","1528","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: Owner, Group, DACL"
+"8:45:41.3218089 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.3218718 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.3218930 AM","icacls.exe","1528","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Information: DACL"
+"8:45:41.3219756 AM","icacls.exe","1528","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3219956 AM","icacls.exe","1528","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:41.3220298 AM","icacls.exe","1528","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:41.3220367 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:41.3220655 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos bancarios","SUCCESS",""
+"8:45:41.3221339 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:41.3221464 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3221577 AM","icacls.exe","1528","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3222203 AM","icacls.exe","1528","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3222482 AM","icacls.exe","1528","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.3222572 AM","icacls.exe","1528","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:41.3222690 AM","icacls.exe","1528","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.3225775 AM","icacls.exe","1528","Thread Exit","","SUCCESS","Thread ID: 8044, User Time: 0.0000000, Kernel Time: 0.0312500"
+"8:45:41.3232814 AM","icacls.exe","1528","Thread Exit","","SUCCESS","Thread ID: 8296, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:41.3305558 AM","icacls.exe","1528","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0312500 seconds, Private Bytes: 843,776, Peak Private Bytes: 843,776, Working Set: 4,374,528, Peak Working Set: 4,378,624"
+"8:45:41.3384593 AM","icacls.exe","1528","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:41.3384763 AM","icacls.exe","1528","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:41.3384950 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:41.3397013 AM","icacls.exe","1528","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:41.3417850 AM","icacls.exe","1528","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:41.3418019 AM","icacls.exe","1528","RegCloseKey","HKLM","SUCCESS",""
+"8:45:41.3418091 AM","icacls.exe","1528","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:41.3418789 AM","icacls.exe","1528","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
+"8:45:41.3507019 AM","icacls.exe","3640","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales"" /remove:d Alberto, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:41.3507074 AM","icacls.exe","3640","Thread Create","","SUCCESS","Thread ID: 4760"
+"8:45:41.3547580 AM","icacls.exe","3640","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:41.3556189 AM","icacls.exe","3640","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:41.3557558 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:41.3557773 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:41.3557892 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:41.3558012 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3558127 AM","icacls.exe","3640","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:41.3558194 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.3558503 AM","icacls.exe","3640","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3558583 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3558660 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3558723 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3561863 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3575375 AM","icacls.exe","3640","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:41.3584536 AM","icacls.exe","3640","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:41.3594345 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:41.3594516 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:41.3594624 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:41.3594693 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3594776 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:41.3595005 AM","icacls.exe","3640","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:41.3595122 AM","icacls.exe","3640","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:41.3595218 AM","icacls.exe","3640","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.3595473 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:41.3595526 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:41.3595591 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3595659 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:41.3605805 AM","icacls.exe","3640","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:41.3607260 AM","icacls.exe","3640","Thread Create","","SUCCESS","Thread ID: 7368"
+"8:45:41.3614911 AM","icacls.exe","3640","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:41.3633611 AM","icacls.exe","3640","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:41.3642556 AM","icacls.exe","3640","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:41.3648068 AM","icacls.exe","3640","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3648371 AM","icacls.exe","3640","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:41 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:41.3648463 AM","icacls.exe","3640","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.3649013 AM","icacls.exe","3640","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3649337 AM","icacls.exe","3640","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.3649528 AM","icacls.exe","3640","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.3663028 AM","icacls.exe","3640","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:41.3673942 AM","icacls.exe","3640","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:41.3674935 AM","icacls.exe","3640","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.3680558 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:41.3680810 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:41.3681021 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:41.3681150 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:41.3681738 AM","icacls.exe","3640","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3681856 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3681963 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3682162 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3683781 AM","icacls.exe","3640","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3683889 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3683958 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.3684034 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.3700929 AM","icacls.exe","3640","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:41.3704289 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3704447 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3704572 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3704634 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3704818 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3704921 AM","icacls.exe","3640","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3705023 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3705092 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3705158 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3705230 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3705295 AM","icacls.exe","3640","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3705410 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.3705484 AM","icacls.exe","3640","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.3705573 AM","icacls.exe","3640","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.3705619 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3705670 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3705739 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3705814 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:41.3705909 AM","icacls.exe","3640","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:41.3705964 AM","icacls.exe","3640","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:41.3706037 AM","icacls.exe","3640","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:41.3706100 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3706159 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3706223 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3706283 AM","icacls.exe","3640","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3706341 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.3706395 AM","icacls.exe","3640","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.3706458 AM","icacls.exe","3640","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.3706503 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3706550 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3706614 AM","icacls.exe","3640","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.3706673 AM","icacls.exe","3640","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3706728 AM","icacls.exe","3640","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3706783 AM","icacls.exe","3640","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.3707687 AM","icacls.exe","3640","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:41.3707793 AM","icacls.exe","3640","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3707865 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:41.3708033 AM","icacls.exe","3640","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:41.3708136 AM","icacls.exe","3640","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.3708439 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.3708553 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3708680 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.3708740 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3708821 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:41.3708894 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:41.3708993 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:41.3709096 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:41.3709158 AM","icacls.exe","3640","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.3709228 AM","icacls.exe","3640","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3709319 AM","icacls.exe","3640","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.3709371 AM","icacls.exe","3640","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.3709427 AM","icacls.exe","3640","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.3709492 AM","icacls.exe","3640","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.3709567 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3709692 AM","icacls.exe","3640","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.3710159 AM","icacls.exe","3640","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3710248 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3710393 AM","icacls.exe","3640","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3710819 AM","icacls.exe","3640","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.3710871 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:41.3710941 AM","icacls.exe","3640","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:41.3711012 AM","icacls.exe","3640","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.3719360 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3719722 AM","icacls.exe","3640","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","CreationTime: 7/2/2025 7:55:22 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:22 AM, ChangeTime: 7/3/2025 8:45:11 AM, FileAttributes: D"
+"8:45:41.3719840 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:41.3720581 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3720763 AM","icacls.exe","3640","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.3721096 AM","icacls.exe","3640","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","INVALID PARAMETER",""
+"8:45:41.3721275 AM","icacls.exe","3640","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:41.3721404 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:41.3722068 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3722552 AM","icacls.exe","3640","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.3722667 AM","icacls.exe","3640","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","CreationTime: 7/2/2025 7:55:22 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:22 AM, ChangeTime: 7/3/2025 8:45:11 AM, FileAttributes: D"
+"8:45:41.3722797 AM","icacls.exe","3640","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales"
+"8:45:41.3723438 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3723574 AM","icacls.exe","3640","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:41.3723689 AM","icacls.exe","3640","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:41.3723770 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:41.3723948 AM","icacls.exe","3640","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","INVALID PARAMETER",""
+"8:45:41.3724026 AM","icacls.exe","3640","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: Owner, Group, DACL"
+"8:45:41.3724887 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.3725583 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.3725906 AM","icacls.exe","3640","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Information: DACL"
+"8:45:41.3727271 AM","icacls.exe","3640","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3727523 AM","icacls.exe","3640","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:41.3727904 AM","icacls.exe","3640","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:41.3727972 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:41.3728297 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Datos personales","SUCCESS",""
+"8:45:41.3729291 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:41.3729501 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3729628 AM","icacls.exe","3640","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.3730376 AM","icacls.exe","3640","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.3730703 AM","icacls.exe","3640","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.3730810 AM","icacls.exe","3640","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:41.3730946 AM","icacls.exe","3640","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.3734399 AM","icacls.exe","3640","Thread Exit","","SUCCESS","Thread ID: 4760, User Time: 0.0000000, Kernel Time: 0.0156250"
+"8:45:41.3820901 AM","icacls.exe","3640","Thread Exit","","SUCCESS","Thread ID: 7368, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:41.3858606 AM","icacls.exe","3640","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0156250 seconds, Private Bytes: 847,872, Peak Private Bytes: 847,872, Working Set: 4,378,624, Peak Working Set: 4,382,720"
+"8:45:41.3885182 AM","icacls.exe","3640","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:41.3885417 AM","icacls.exe","3640","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:41.3885634 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:41.3906651 AM","icacls.exe","3640","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:41.3916803 AM","icacls.exe","3640","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:41.3916972 AM","icacls.exe","3640","RegCloseKey","HKLM","SUCCESS",""
+"8:45:41.3917045 AM","icacls.exe","3640","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:41.3917962 AM","icacls.exe","3640","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
+"8:45:41.4016964 AM","icacls.exe","3104","Process Start","","SUCCESS","Parent PID: 8180, Command line: icacls ""C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo"" /remove:d Alberto, Current directory: C:\Users\Alberto\Downloads\, Environment: ;	=::=::\;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Alberto\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_6412_OCIFIYPSXPMQLVQY;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-7BAUF9K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer;	FPS_BROWSER_USER_PROFILE_STRING=Default;	HOME=C:\Users\Alberto;	HOMEDRIVE=C:;	HOMEPATH=\Users\Alberto;	LOCALAPPDATA=C:\Users\Alberto\AppData\Local;	LOGONSERVER=\\DESKTOP-7BAUF9K;	NUMBER_OF_PROCESSORS=1;	OneDrive=C:\Users\Alberto\OneDrive;	OS=Windows_NT;	Path=C:\Program Files\Google\Chrome\Application;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Alberto\AppData\Local\Microsoft\WindowsApps;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8d01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TCL_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tcl_data;	TEMP=C:\Users\Alberto\AppData\Local\Temp;	TK_LIBRARY=C:\Users\Alberto\AppData\Local\Temp\_MEI45362\_tk_data;	TMP=C:\Users\Alberto\AppData\Local\Temp;	USERDOMAIN=DESKTOP-7BAUF9K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-7BAUF9K;	USERNAME=Alberto;	USERPROFILE=C:\Users\Alberto;	windir=C:\Windows;	_PYI_APPLICATION_HOME_DIR=C:\Users\Alberto\AppData\Local\Temp\_MEI45362;	_PYI_ARCHIVE_FILE=C:\Users\Alberto\Downloads\BBVA_Rellenar (4).exe;	_PYI_PARENT_PROCESS_LEVEL=1"
+"8:45:41.4017121 AM","icacls.exe","3104","Thread Create","","SUCCESS","Thread ID: 8924"
+"8:45:41.4051891 AM","icacls.exe","3104","Load Image","C:\Windows\System32\icacls.exe","SUCCESS","Image Base: 0x7ff75d8d0000, Image Size: 0xe000"
+"8:45:41.4053839 AM","icacls.exe","3104","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffed44b0000, Image Size: 0x1f8000"
+"8:45:41.4055324 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"8:45:41.4055484 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"8:45:41.4055599 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"8:45:41.4055724 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.4055806 AM","icacls.exe","3104","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"8:45:41.4055878 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.4056180 AM","icacls.exe","3104","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4056296 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4056380 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.4056440 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.4059704 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Downloads","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4073609 AM","icacls.exe","3104","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffed2ff0000, Image Size: 0xbd000"
+"8:45:41.4086570 AM","icacls.exe","3104","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffed1e50000, Image Size: 0x2ce000"
+"8:45:41.4138069 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"8:45:41.4138234 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"8:45:41.4138343 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"8:45:41.4138394 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4138472 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"8:45:41.4138641 AM","icacls.exe","3104","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"8:45:41.4138753 AM","icacls.exe","3104","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"8:45:41.4138915 AM","icacls.exe","3104","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"8:45:41.4139178 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"8:45:41.4139233 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"8:45:41.4139297 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.4139361 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"8:45:41.4152398 AM","icacls.exe","3104","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffed2570000, Image Size: 0x9e000"
+"8:45:41.4153596 AM","icacls.exe","3104","Thread Create","","SUCCESS","Thread ID: 4152"
+"8:45:41.4159808 AM","icacls.exe","3104","Load Image","C:\Windows\System32\advapi32.dll","SUCCESS","Image Base: 0x7ffed31a0000, Image Size: 0xae000"
+"8:45:41.4168521 AM","icacls.exe","3104","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffed30b0000, Image Size: 0x9c000"
+"8:45:41.4177536 AM","icacls.exe","3104","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffed3370000, Image Size: 0x125000"
+"8:45:41.4184905 AM","icacls.exe","3104","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4185200 AM","icacls.exe","3104","QueryBasicInformationFile","C:\Windows\System32\ntmarta.dll","SUCCESS","CreationTime: 9/7/2022 8:08:50 PM, LastAccessTime: 7/3/2025 8:45:41 AM, LastWriteTime: 9/7/2022 8:08:50 PM, ChangeTime: 7/3/2025 8:29:45 AM, FileAttributes: A"
+"8:45:41.4185305 AM","icacls.exe","3104","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.4185854 AM","icacls.exe","3104","CreateFile","C:\Windows\System32\ntmarta.dll","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4186173 AM","icacls.exe","3104","CreateFileMapping","C:\Windows\System32\ntmarta.dll","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.4186345 AM","icacls.exe","3104","CreateFileMapping","C:\Windows\System32\ntmarta.dll","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.4192937 AM","icacls.exe","3104","Load Image","C:\Windows\System32\ntmarta.dll","SUCCESS","Image Base: 0x7ffed08d0000, Image Size: 0x33000"
+"8:45:41.4199627 AM","icacls.exe","3104","Load Image","C:\Windows\System32\ucrtbase.dll","SUCCESS","Image Base: 0x7ffed2380000, Image Size: 0x100000"
+"8:45:41.4200395 AM","icacls.exe","3104","CloseFile","C:\Windows\System32\ntmarta.dll","SUCCESS",""
+"8:45:41.4203916 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"8:45:41.4204118 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"8:45:41.4204324 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"8:45:41.4204446 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"8:45:41.4204897 AM","icacls.exe","3104","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4204969 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4205055 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.4205170 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.4206925 AM","icacls.exe","3104","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4207057 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4207122 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"8:45:41.4207195 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"8:45:41.4228623 AM","icacls.exe","3104","QueryNameInformationFile","C:\Windows\System32\icacls.exe","SUCCESS","Name: \Windows\System32\icacls.exe"
+"8:45:41.4229757 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4229953 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230105 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4230169 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230336 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4230405 AM","icacls.exe","3104","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230508 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230574 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4230682 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230783 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4230850 AM","icacls.exe","3104","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4230917 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.4231009 AM","icacls.exe","3104","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.4231101 AM","icacls.exe","3104","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.4231148 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4231199 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4231267 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4231331 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"8:45:41.4231430 AM","icacls.exe","3104","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"8:45:41.4231496 AM","icacls.exe","3104","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: en-US"
+"8:45:41.4231565 AM","icacls.exe","3104","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"8:45:41.4231613 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4231672 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4231737 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4231809 AM","icacls.exe","3104","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4231865 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"8:45:41.4231917 AM","icacls.exe","3104","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"8:45:41.4231984 AM","icacls.exe","3104","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"8:45:41.4232034 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4232083 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4232147 AM","icacls.exe","3104","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"8:45:41.4232206 AM","icacls.exe","3104","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4232260 AM","icacls.exe","3104","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4232312 AM","icacls.exe","3104","RegCloseKey","HKCU","SUCCESS",""
+"8:45:41.4233269 AM","icacls.exe","3104","RegOpenKey","HKLM","SUCCESS","Desired Access: Maximum Allowed, Granted Access: Read"
+"8:45:41.4233381 AM","icacls.exe","3104","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.4233456 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Read"
+"8:45:41.4233712 AM","icacls.exe","3104","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize","NAME NOT FOUND","Length: 16"
+"8:45:41.4233886 AM","icacls.exe","3104","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.4234307 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.4234447 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4234589 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","REPARSE","Desired Access: Read"
+"8:45:41.4234646 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Services\CCG","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4234722 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","REPARSE","Desired Access: Read"
+"8:45:41.4234816 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS","Desired Access: Read"
+"8:45:41.4234986 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName","SUCCESS","Type: REG_SZ, Length: 32, Data: DESKTOP-7BAUF9K"
+"8:45:41.4235112 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName","SUCCESS",""
+"8:45:41.4235179 AM","icacls.exe","3104","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.4235269 AM","icacls.exe","3104","RegQueryValue","HKLM\SYSTEM\Setup\OOBEInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.4235366 AM","icacls.exe","3104","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.4235423 AM","icacls.exe","3104","RegOpenKey","HKLM\System\Setup","SUCCESS","Desired Access: Read"
+"8:45:41.4235483 AM","icacls.exe","3104","RegQueryValue","HKLM\SYSTEM\Setup\SystemSetupInProgress","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"8:45:41.4235555 AM","icacls.exe","3104","RegCloseKey","HKLM\SYSTEM\Setup","SUCCESS",""
+"8:45:41.4235664 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4235900 AM","icacls.exe","3104","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\icacls.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"8:45:41.4236604 AM","icacls.exe","3104","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.4236660 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows NT\Rpc","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4236868 AM","icacls.exe","3104","RegOpenKey","HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4237721 AM","icacls.exe","3104","RegQueryKey","HKLM","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"8:45:41.4237774 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Microsoft\Rpc","SUCCESS","Desired Access: Query Value"
+"8:45:41.4237844 AM","icacls.exe","3104","RegQueryValue","HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow","NAME NOT FOUND","Length: 16"
+"8:45:41.4237907 AM","icacls.exe","3104","RegCloseKey","HKLM\SOFTWARE\Microsoft\Rpc","SUCCESS",""
+"8:45:41.4246068 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4246327 AM","icacls.exe","3104","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","CreationTime: 7/2/2025 7:55:25 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:25 AM, ChangeTime: 7/3/2025 8:45:11 AM, FileAttributes: D"
+"8:45:41.4246407 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:41.4246931 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4247052 AM","icacls.exe","3104","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.4247284 AM","icacls.exe","3104","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","INVALID PARAMETER",""
+"8:45:41.4247408 AM","icacls.exe","3104","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: Owner, Group, DACL, Label, Process Trust Label, 0x100"
+"8:45:41.4247490 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:41.4247948 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Attributes, Read Control, Write DAC, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4248229 AM","icacls.exe","3104","QueryAttributeTagFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Attributes: D, ReparseTag: 0x0"
+"8:45:41.4248335 AM","icacls.exe","3104","QueryBasicInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","CreationTime: 7/2/2025 7:55:25 AM, LastAccessTime: 7/3/2025 8:45:18 AM, LastWriteTime: 7/2/2025 7:55:25 AM, ChangeTime: 7/3/2025 8:45:11 AM, FileAttributes: D"
+"8:45:41.4248452 AM","icacls.exe","3104","QueryNameInformationFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Name: \Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo"
+"8:45:41.4248973 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Desired Access: Read Control, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4249089 AM","icacls.exe","3104","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm","INVALID PARAMETER",""
+"8:45:41.4249168 AM","icacls.exe","3104","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS","Information: DACL"
+"8:45:41.4249229 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm","SUCCESS",""
+"8:45:41.4249355 AM","icacls.exe","3104","QueryRemoteProtocolInformation","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","INVALID PARAMETER",""
+"8:45:41.4249426 AM","icacls.exe","3104","QuerySecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: Owner, Group, DACL"
+"8:45:41.4250073 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.4250680 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","ACCESS DENIED","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a"
+"8:45:41.4250949 AM","icacls.exe","3104","SetSecurityFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Information: DACL"
+"8:45:41.4252765 AM","icacls.exe","3104","CreateFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4253259 AM","icacls.exe","3104","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS","FileInformationClass: FileDirectoryInformation, 1: ., 2: .."
+"8:45:41.4253608 AM","icacls.exe","3104","QueryDirectory","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","NO MORE FILES","FileInformationClass: FileDirectoryInformation"
+"8:45:41.4253717 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:41.4254195 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Desktop\_bloqueadas_tfm\Entorno de trabajo","SUCCESS",""
+"8:45:41.4255175 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"8:45:41.4255375 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4255534 AM","icacls.exe","3104","RegOpenKey","HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\en-US","NAME NOT FOUND","Desired Access: Read"
+"8:45:41.4256899 AM","icacls.exe","3104","CreateFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"8:45:41.4257307 AM","icacls.exe","3104","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_WRITECOPY|PAGE_NOCACHE"
+"8:45:41.4257434 AM","icacls.exe","3104","QueryStandardInformationFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","AllocationSize: 24,576, EndOfFile: 24,064, NumberOfLinks: 2, DeletePending: False, Directory: False"
+"8:45:41.4257617 AM","icacls.exe","3104","CreateFileMapping","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS","SyncType: SyncTypeOther"
+"8:45:41.4262568 AM","icacls.exe","3104","Thread Exit","","SUCCESS","Thread ID: 8924, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:41.4319371 AM","icacls.exe","3104","Thread Exit","","SUCCESS","Thread ID: 4152, User Time: 0.0000000, Kernel Time: 0.0000000"
+"8:45:41.4354425 AM","icacls.exe","3104","Process Exit","","SUCCESS","Exit Status: 0, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 847,872, Peak Private Bytes: 847,872, Working Set: 4,378,624, Peak Working Set: 4,382,720"
+"8:45:41.4387772 AM","icacls.exe","3104","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS","Desired Access: All Access"
+"8:45:41.4387941 AM","icacls.exe","3104","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001\\Device\HarddiskVolume2\Windows\System32\icacls.exe","NAME NOT FOUND","Length: 40"
+"8:45:41.4388160 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-2940940671-1211487086-3308912436-1001","SUCCESS",""
+"8:45:41.4400480 AM","icacls.exe","3104","CloseFile","C:\Users\Alberto\Downloads","SUCCESS",""
+"8:45:41.4414622 AM","icacls.exe","3104","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"8:45:41.4414863 AM","icacls.exe","3104","RegCloseKey","HKLM","SUCCESS",""
+"8:45:41.4414949 AM","icacls.exe","3104","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"8:45:41.4416109 AM","icacls.exe","3104","CloseFile","C:\Windows\System32\en-US\ICacls.exe.mui","SUCCESS",""
